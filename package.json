@@ -1,0 +1,57 @@
+{
+  "_from": "josiahtoolkit",
+  "_id": "josiahtoolkit@2.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-zsug/Oq17qzJWeTU52xtlIHVA03H/fjdcNZCnATgb/KrEYcDcRW1PYSg3C5zBHla/+f2OzV7oB+Mp5nX3CHGmQ==",
+  "_location": "/josiahtoolkit",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "josiahtoolkit",
+    "name": "josiahtoolkit",
+    "escapedName": "josiahtoolkit",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/josiahtoolkit/-/josiahtoolkit-2.0.0.tgz",
+  "_shasum": "ce67c2618faa8f133ff634cef853161451aaed82",
+  "_spec": "josiahtoolkit",
+  "_where": "/Users/rachelbacsal/JosiahOS/2021/JosiahTools/test",
+  "author": {
+    "name": "Josiah"
+  },
+  "bugs": {
+    "url": "https://github.com/Mar10Josh/JosiahToolkit/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "trollbox-bot": "^1.0.6"
+  },
+  "deprecated": false,
+  "description": "Josiah Toolkit is another pack of functions for Javascript!",
+  "homepage": "https://github.com/Mar10Josh/JosiahToolkit#readme",
+  "keywords": [
+    "toolkit"
+  ],
+  "license": "UNLICENSED",
+  "main": "code.js",
+  "name": "josiahtoolkit",
+  "permissions": {
+    "read": true,
+    "write": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mar10Josh/JosiahToolkit.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.0.0"
+}
